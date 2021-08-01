@@ -134,3 +134,25 @@ ul {
   font-size: 14px;
   color: #fff;
 }
+
+.socialmediaIcons{
+  font-size: large;
+}
+
+.socialMediaRow{
+  justify-content: left;
+}
+
+.socialMediaCol{
+  width: fit-content;
+}
+
+@media only screen and (max-width: 800px) {
+  .socialMediaRow{
+    justify-content: center;
+  }
+
+  .footer-logo{
+    text-align: center;
+  }  
+}

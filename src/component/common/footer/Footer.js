@@ -11,12 +11,29 @@ const footer = () => (
           <div className="col-xl-4 col-lg-4 mb-50">
             <div className="footer-widget">
               <div className="footer-logo">
-                <a href={data.footer.link.home}>
+                <a href="/">
                   <img src={Logo} className="img-fluid" width="150px" alt="logo" />
                 </a>
               </div>
               <div className="footer-text">
                 <p>{data.footer.description}</p>
+                <div className="row socialMediaRow mb-3">
+                  <div className="col-lg-1 col-md-1 col-sm-1 socialMediaCol">
+                    <a href="https://www.facebook.com/msclubsliit" rel="noreferrer" target="_blank">
+                      <i className="bi bi-facebook socialmediaIcons text-white" />
+                    </a>
+                  </div>
+                  <div className="col-lg-1 col-md-1 col-sm-1 socialMediaCol">
+                    <a href="https://www.linkedin.com/company/msclubsliit" rel="noreferrer" target="_blank">
+                      <i className="bi bi-linkedin socialmediaIcons text-white" />
+                    </a>
+                  </div>
+                  <div className="col-lg-1 col-md-1 col-sm-1 socialMediaCol">
+                    <a href="https://www.instagram.com/msclub.sliit" rel="noreferrer" target="_blank">
+                      <i className="bi bi-instagram socialmediaIcons text-white" />
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -27,22 +44,22 @@ const footer = () => (
               </div>
               <ul>
                 <li>
-                  <a href={data.footer.link.home}>Home</a>
+                  <a href="/">Home</a>
                 </li>
                 <li>
-                  <a href={data.footer.link.contact}>Contact us</a>
+                  <a href="/contact">Contact us</a>
                 </li>
                 <li>
-                  <a href={data.footer.link.blog}>Blog</a>
+                  <a href="/blogs">Blog</a>
                 </li>
                 <li>
-                  <a href={data.footer.link.events}>Events</a>
+                  <a href="/events">Events</a>
                 </li>
                 <li>
-                  <a href={data.footer.link.codeofconduct}>Code of Conduct</a>
+                  <a href="/">Code of Conduct</a>
                 </li>
                 <li>
-                  <a href={data.footer.link.brandassets}>Brand Assets</a>
+                  <a href="/">Brand Assets</a>
                 </li>
               </ul>
             </div>
@@ -75,7 +92,7 @@ const footer = () => (
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2021, All Right Reserved&nbsp;
-                <a href={data.footer.link.home}>MS Club of SLIIT</a>
+                <a href="/">MS Club of SLIIT</a>
               </p>
             </div>
           </div>

@@ -2,15 +2,6 @@
     "footer":
 	{
 		"id": 1,
-		"link": {
-			"home":  "https://ms-club-website.web.app",
-			"about": "https://ms-club-website.web.app/about",
-			"blog": "https://ms-club-website.web.app/blogs",
-			"contact": "https://ms-club-website.web.app/contact",
-			"events": "https://ms-club-website.web.app/events",
-			"codeofconduct": "#",
-			"brandassets": "#"
-		},
 		"subscription": "Get the latest updates and information regarding MS Club of SLIIT right to your inbox!",
 		"description": "A volunteer-driven student community aiming to bridge the skill gap between an Undergraduate and an Industry Professional."
 	}
