@@ -4,7 +4,7 @@
       "id": 1,
       "image": "/assets/event/pastEvents/Women_In_Tech.jpg",
       "time": "7.00 PM",
-      "datetime": "2021-07-24T12:00:00Z",
+      "datetime": "2021-07-24T19:00:00",
       "title": "Women in Tech",
       "description": "Hello there! Looking for a way to gear up your brand new tech journey? All set with your web application? Still looking for a web application host. Well, you are the right person to hear this good news. Date: 24th of July Time: 7.00 pm Stay tuned with the Tech Talks with Malith to a session done by our very own young talented lady of MS Club of SLIIT, Hiruni Arunoda(3rd-year Software Engineering Undergraduate at SLIIT), as we introduce young tech enthusiastic beginners to check out azure web app service to host their web applications. Microsoft Certified Trainer Mr.@Mali will be the moderator of the event.",
       "tags": [
@@ -19,7 +19,7 @@
       "id": 2,
       "image": "/assets/event/pastEvents/ITP_Guide_2_github.jpg",
       "time": "6.00 PM",
-      "datetime": "2021-07-12T12:00:00Z",
+      "datetime": "2021-07-12T18:00:00",
       "title": "ITP GUIDE 2.0 - KICKSTART YOUR MERN APPLICATION WITH GitHub",
       "description": "Want to know more about how you can use Github in your project? Curious about what the MERN stack is? Confused about CI/CD pipelines and how important they are? Gain practical experience on how to implement your IT project with insight on different tools and technologies and how you can use them to make ITP a success. Our speakers are happy to guide you and share with you tips as well as their experiences as they bring in the second session of ITP Guide 2.0. Join us on, 12th July 6.00 pm onwards Join the event: https://bit.ly/itp_practical #msclubofsliit #itp #supportsessions #growtogether",
       "tags": [
@@ -35,7 +35,7 @@
       "id": 3,
       "image": "/assets/event/pastEvents/ITP_Guide_2_Intro.jpg",
       "time": "6.00 PM",
-      "datetime": "2021-06-28T12:00:00Z",
+      "datetime": "2021-06-28T18:00:00",
       "title": "ITP GUIDE 2.0 WANNA TAKE YOUR IT PROJECT TO THE NEXT LEVEL?",
       "description": "Lead your IT project to greater success with your ultimate commitment and our experienced guidance. We are happy to share our own experience and tips on how to prepare for your IT project Join with us 28th June 6.00 pm onwards The session link will be sent via your SLIIT email",
       "tags": [
@@ -49,7 +49,7 @@
       "id": 4,
       "image": "/assets/event/pastEvents/Mini-HACKATHON.jpg",
       "time": "7.30 PM",
-      "datetime": "2021-05-27T12:00:00Z",
+      "datetime": "2021-05-27T19:30:00",
       "title": "Mini-HACKATHON 4.0 Award Ceremony",
       "description": "The day you all have been waited is finally here! 15 competitive teams competed for one title, Mini Hackathon 4.0 - Winner Only less than 4 hours left for the most awaited moment. Top 3 teams Best presenter The most popular team Awards and the cash prizes are ready! Join us Facebook live to witness the virtual award ceremony of the mini hackathon 4.0. Facebook event page link : https://fb.me/e/2nfPxNk7S",
       "tags": [
@@ -66,7 +66,7 @@
       "id": 5,
       "image": "/assets/event/pastEvents/Mini-Hackothon-Final.jpg",
       "time": "3.00 PM",
-      "datetime": "2021-05-22T12:00:00Z",
+      "datetime": "2021-05-22T15:00:00",
       "title": "Mini-HACKATHON 4.0 Final Round",
       "description": "The Mini Hackathon 4.0 Finale is happening today! After the 6 days of preparation with the 4 days of mentorship , the final 15 teams are ready to showcase their improvised, innovative ideas to the panel of judges. Who is going to win the 'Mini Hackathon 4.0 - Winner' title? Good luck to the finalist! Stay tuned with us!",
       "tags": [
@@ -83,7 +83,7 @@
       "id": 6,
       "image": "/assets/event/pastEvents/TechTalkWithMalith_Azure.jpg",
       "time": "7.00 PM",
-      "datetime": "2021-05-21T12:00:00Z",
+      "datetime": "2021-05-21T19:00:00",
       "title": "TECHTALK with MALITH Create and Deploy a ML Model using Azure ML Studio",
       "description": "Hey ! Fellow tech enthusiasts. Ever thought of how those fancy ML models work under the hood ? Well you are in luck. Date : 21 st of May Time : 7.00 PM Tune into Tech Talks with Malith to a session done by one of the most promising young talents of MS club of SLIIT , Yasiru Randika (3rd year Data Science Undergraduate at SLIIT ) as we embark on the journey to explore the capabilities of Azure ML Studio.Microsoft Certified Trainer Mr.Malith Wimana will be the moderator of the event. Catch us on YouTube : https://youtu.be/3rwYasshgHo",
       "tags": [
@@ -99,7 +99,7 @@
       "id": 7,
       "image": "/assets/event/pastEvents/Microsoft_Student_Champs_May.jpg",
       "time": "6.30 PM",
-      "datetime": "2021-05-11T12:00:00Z",
+      "datetime": "2021-05-11T18:30:00",
       "title": "Microsoft Student Champ – May Meetup",
       "description": "It's on TOMORROW Don't miss our Microsoft Student Champs Register here: http://bit.ly/MSChampsMay Our guest speaker, Mr.Malin De Silva ( Microsoft MVP in Azure, Lead IT Engineer - DATAMTX Labs ) will be conducting a session on Moving web apps into Azure. Following him, Sahan Dissanayaka (Beta MLSA, 3rd Year Computer Science Undergraduate, UCSC) will be sharing his knowledge of Microsoft Power Platform Join us on tomorrow at 6.00 P.M to learn something new. Register soon to secure your spot! Also, do share this post with your friends so that they might get something out of this",
       "tags": [
@@ -116,7 +116,7 @@
       "id": 8,
       "image": "/assets/event/pastEvents/Hackathon_Awareness.jpg",
       "time": "7.30 PM",
-      "datetime": "2021-04-23T12:00:00Z",
+      "datetime": "2021-04-23T19:30:00",
       "title": "HACKATHON 4.0 Awareness Session",
       "description": "Are you struggling to comprehend the WHATs, WHYs, and HOWs of Mini Hackathon 4.0? Don't worry we've got you covered! Mini Hackathon 4.0 Awareness Session will help you to understand HOW Mini Hackathon will be conducted, WHAT will you be gaining from this and WHY you should participate in it and much more. Speaker 1 Dr. Nuwan Kodagoda Head/Department of Computer Science and Software Engineering at SLIIT Speaker 2   Nissanka Senevirathne Former Microsoft Student Partner To take part in Mini-hackathon join us via our teams link below",
       "tags": [
@@ -130,7 +130,7 @@
       "id": 9,
       "image": "/assets/event/pastEvents/Microsoft_student_Champs_March.jpg",
       "time": "6.30 PM",
-      "datetime": "2021-03-31T12:00:00Z",
+      "datetime": "2021-03-31T18:30:00",
       "title": "Microsoft Student Champ",
       "description": " Register here: bit.ly/MSChampsMar MS Champs is back for the month of March. Buckle Up! Have you heard of the term 'serverless computing'?  Do you wanna know how to extract information from images and videos? Join us on 31st of March at 6.30 P.M to learn something new. Register soon to secure your spot! Also, do share this post with your friends so that they might get something out of this",
       "tags": [
@@ -148,7 +148,7 @@
       "id": 10,
       "image": "/assets/event/pastEvents/Azure_Fundamentals_Training.jpg",
       "time": "6.30 PM",
-      "datetime": "2021-03-12T12:00:00Z",
+      "datetime": "2021-03-12T18:30:00",
       "title": "Azure Fundamentals (AZ-900) Training Workshop",
       "description": "MS Club of SLIIT is excited to have a talented Microsoft Certified Trainer, Mr. Malith Wimanna (Head of Learning at N Tech Learning & Solutions) to exclusively train the students of SLIIT to face the Azure Fundamentals (AZ-900) exam confidently.",
       "tags": [
@@ -163,7 +163,7 @@
       "id": 11,
       "image": "/assets/event/pastEvents/First_Step_To_Silicon_Vally.jpg",
       "time": "7.00 PM",
-      "datetime": "2021-03-11T12:00:00Z",
+      "datetime": "2021-03-11T19:00:00",
       "title": "First Step into Silicon Valley",
       "description": "Register now  https://forms.office.com/Pages/ResponsePage.aspx... Open to All Students of SLIIT The Algothon Workshop series returns back for the year 2021! Join our introductory session, and get to know what skills you really need to get into the Silicon Valley from Dr.Shyam Reyal (Senior Lecturer - SLIIT, Working Experience at Google) 'First Step into Silicon Valley' will broaden your view on algorithmic programming and be a fruitful session. Therefore, do not miss this awesome opportunity!",
       "tags": [
@@ -176,7 +176,7 @@
       "id": 12,
       "image": "/assets/event/pastEvents/Cloud_Skill_Challenge.jpg",
       "time": "6.30 PM",
-      "datetime": "2021-02-28T12:00:00Z",
+      "datetime": "2021-02-28T18:30:00",
       "title": "Cloud Skills Challenge – Closing Event",
       "description": "Register now!  bit.ly/csc_closing Let's end Cloud Skills Challenge 2021 with a plan for the future! Join us today at 6.30PM with Anju Nissanka Seneviratne (Microsoft Imagine Cup 2019 Europe Finalist,Microsoft Imagine Cup 2018 National and South East Asia Champion, Asia Pacific Finalist) to learn on how to discover your learning path after Cloud Skills Challenge. This will be a complete knowledge sharing session, so keep your questions ready too!",
       "tags": [
@@ -192,7 +192,7 @@
       "id": 13,
       "image": "/assets/event/pastEvents/Microsoft_Student_Champs_Feb.jpg",
       "time": "6.30 PM",
-      "datetime": "2021-02-25T12:00:00Z",
+      "datetime": "2021-02-25T18:30:00",
       "title": "Microsoft Student Champ",
       "description": "Register now to attend the event: bit.ly/MSChampsFeb Gear up for our next Microsoft Student Champs webinar held on the 25th of February 2020 at 6.30 PM IST. Our guest speaker, Mr. Uditha Bandara (Founder & CEO of Bluechip Technologies Asia) will be conducting a session on leveraging Machine Learning in the Human Resource domain. Along with him, we have our very own MLSA from SLIIT, Renu Harshatha giving a brief overview of the current threats in Cloud Computing and how to mitigate them. Join us through Microsoft Teams to learn and grow together. We hope to see you through the digital space.",
       "tags": [
@@ -209,7 +209,7 @@
       "id": 14,
       "image": "/assets/event/pastEvents/Cloud_Skill_Webinar.png",
       "time": "6.00 PM",
-      "datetime": "2021-02-18T12:00:00Z",
+      "datetime": "2021-02-18T18:00:00",
       "title": "Cloud Skills Webinar",
       "description": "Buckle up your seat belt, it's time to create history together. Our First ever webinar of Cloud Skills Challenge being held on 18th of February 2021 from 6pm onwardsAs our Guest Speaker Microsoft MVP, CEO and Principal Architect at Impact IT Solutions, Mr. Shameera Prajapriya will be conducting a brief session on Azure IOT, this will be an introductory tech-talk on what is Azure IOT and how it works. Following him we have our own 3rd year SLIIT Undergraduate and MS Club member Senura Vihan Jayadeva who will be sharing his knowledge and hands on experience of what NodeMCU is and its use in IOT. Get yourself prepared and dive in for an amazing opportunity to be part of the new history we are writing. Let yourself immerse in Cloud Skills   Hurry up and get yourself registered to this interesting session: bit.ly/csc_webinar",
       "tags": [
@@ -227,7 +227,7 @@
       "id": 15,
       "image": "/assets/event/pastEvents/Cloud_Skill_Launching_Event.png",
       "time": "7.00 PM",
-      "datetime": "2021-01-10T12:00:00Z",
+      "datetime": "2021-01-10T19:00:00",
       "title": "Cloud Skills Challenge Launching Event",
       "description": "Event Link: bit.ly/csc2021 Transform from a Zero to Hero in Cloud Computing through 'Cloud Skills Challenge' brought to you in unison by the Student Communities of the SLIIT Faculty of Computing. Prabhath Mannapperuma (Partner Technology Strategist at Microsoft) will be launching this challenge and offering more details. Don't miss this amazing opportunity to learn and win exclusive Swags! Join us on the 10th of January 2021 at 7pm to experience the next era of learning Cloud Computing. Learn. Compete. Win. ~Please note that this competition is exclusive to the students of SLIIT~",
       "tags": [
@@ -242,7 +242,7 @@
       "id": 16,
       "image": "/assets/event/pastEvents/Microsoft_Student_Champs_Jan.png",
       "time": "5.30 PM",
-      "datetime": "2021-01-30T12:00:00Z",
+      "datetime": "2021-01-30T17:30:00",
       "title": "Microsoft Student Champs – January Meetup",
       "description": "𝗠𝗦 𝗖𝗵𝗮𝗺𝗽𝘀 𝗶𝘀 𝗯𝗮𝗰𝗸 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗺𝗼𝗻𝘁𝗵 𝗼𝗳 𝗝𝗮𝗻𝘂𝗮𝗿𝘆. : http://bit.ly/MSChampsJan Get ready to dive into Data Modeling in Power BI and Why it's Important and How to do it. Also, expand your knowledge on Azure Cloud Services and Azure DevOps. Join us on the 30th of January at 5.30 P.M. to ramp up your skills. Register soon to secure your spot!",
       "tags": [
@@ -258,7 +258,7 @@
       "id": 17,
       "image": "/assets/event/pastEvents/Cloud_Skills_Challenge.jpg",
       "time": "6.00 PM",
-      "datetime": "2021-01-11T12:00:00Z",
+      "datetime": "2021-01-11T18:00:00",
       "title": "Cloud Skills Challenge",
       "description": "The Clock is ticking.  With only 30 days remaining in Cloud Skills Challenge, the leaderboard is heating up! If you have not yet taken part, do not worry! It is never to late to start.  Keep learning to win exclusive Swags from Microsoft!!! To learn how to join the challenge  bit.ly/CSC_2021 If you missed to catch us on the Launch Day  https://fb.watch/340fDDw7z3/",
       "tags": [
@@ -272,7 +272,7 @@
       "id": 18,
       "image": "/assets/event/pastEvents/CV_Writing_and_Interview_skill.jpg",
       "time": "6.30 PM",
-      "datetime": "2020-12-28T12:00:00Z",
+      "datetime": "2020-12-28T18:30:00",
       "title": "CV Writing and Interview Skills",
       "description": "Register here: http://bit.ly/CVWriting20 You never get a second chance to make a first impression. A top-quality CV will make all the difference in obtaining the position you want. The next hurdle is presenting yourself assertively in a face-to-face Interview. Making a good first impression is important in today's competitive job market.Join us on the 28th of December at 6.30 PM IST with Minuri Adasuriya to level up your CV and learn to face your next Interviews confidently. Register soon!",
       "tags": [
@@ -286,7 +286,7 @@
       "id": 19,
       "image": "/assets/event/pastEvents/Microsoft_student_Champs_Dec.jpg",
       "time": "5.30 PM",
-      "datetime": "2020-12-17T12:00:00Z",
+      "datetime": "2020-12-17T17:30:00",
       "title": "Microsoft Student Champs – December Meetup",
       "description": "Register here: https://bit.ly/MSChampsDec Our final MS Champs meetup for the year 2020 is just around the corner. Explore the capabilities of Azure DevOps for a successful DevOps Implementation with Pushpa Herath, Senior DevOps Engineer (99x Technology). Dive into the vastness of Big data and analyse its future in our world with Indrajith Ekanayake, Microsoft Learn Student Ambassador. Have a crack at mobile app development using React Native with Chamika Perera, Software Engineering Undergraduate (SLIIT) Join us on the 17th of December at 5.30 P.M. to ramp up your skills. Register soon to secure your spot!",
       "tags": [
@@ -304,7 +304,7 @@
       "id": 20,
       "image": "/assets/event/pastEvents/CDAP.png",
       "time": "6.00 PM",
-      "datetime": "2020-11-20T12:00:00Z",
+      "datetime": "2020-11-20T18:00:00",
       "title": "CDAP – My Journey and Lessons Learnt",
       "description": "The session has been rescheduled. It will be held Tomorrow (20th Friday 2020) at 6PM. Join the Meeting Group: https://bit.ly/CDAPSupport Are you struggling to find a research topic for your 4th Year CDAP Module? No idea on where to begin?Gihan Saranga Siriwardhana (Gold MLSA) will share his experiences and problems faced during his research journey and provide tips on how to elevate your research. Date: 20th November 2020 (Friday) Time: 6 PM",
       "tags": [
@@ -316,7 +316,7 @@
       "id": 21,
       "image": "/assets/event/pastEvents/TroubleShootMe.jpg",
       "time": "1.00 PM",
-      "datetime": "2020-11-06T12:00:00Z",
+      "datetime": "2020-11-06T13:00:00",
       "title": "TroubleShootMe",
       "description": "Register here: http://bit.ly/troubleShootMe(Closing at 1:00 pm on Nov 6th, 2020) Challenges Covering:1. Linux Basic/special permission 2. Linux Storage/LVM 3. Security-Enhanced Linux 4. Firewall basics 5. Package update 6. Access control list 7. Ansible ad-hoc commands 8. Containers9. Basic shell scriptFollowing the competition, a discussion will be conducted by Mr. Rohan Kulanga De Silva (RHCA-V, RHCDCS, RHCI) to explain the challenges covered and give a brief introduction for each topic. So it doesn't matter if you are an expert or a novice. There is something for everyone to take away. Register soon!",
       "tags": [
@@ -331,7 +331,7 @@
       "id": 22,
       "image": "/assets/event/pastEvents/returnCero.jpg",
       "time": "1.00 PM",
-      "datetime": "2020-10-31T12:00:00Z",
+      "datetime": "2020-10-31T13:00:00",
       "title": "return {C}ero",
       "description": "Register here: http://bit.ly/ReturnCero return {C}ero As an initiative towards enhancing the competitive programming skills and C knowledge of 1st-year students of SLIIT students, we are organizing a support session and a programming competition in the end. This will mainly be happening online due to the prevailing situation of the country and we hope to use an online compiler like Repl. In the support session, we hope to dive into topics such as - Conditional Statements - Iterations -Functions -Arrays -File Handling The demonstration sessions will be conducted by members of the MS club organizing committee through Microsoft teams. Register using the link above to be a part of this session. * This event is for 1st Year Students at SLIIT",
       "tags": [
@@ -343,7 +343,7 @@
       "id": 23,
       "image": "/assets/event/pastEvents/Microsoft_imagine_Cup.jpg",
       "time": "6.00 PM",
-      "datetime": "2020-10-15T12:00:00Z",
+      "datetime": "2020-10-15T18:00:00",
       "title": "Microsoft Imagine Cup – Awareness Session",
       "description": "Register here: http://bit.ly/ImagineCup2021 For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. You could win: - Mentorship from Microsoft Experts - Networking with Industry Pros - The Chance to showcase your idea - Cash to continue taking your project to the next level! Join us on the 15th of October,2020 to find out how you could make a difference through Microsoft Imagine Cup.",
       "tags": [
@@ -357,7 +357,7 @@
       "id": 24,
       "image": "/assets/event/pastEvents/ITP_Guide_Oct.jpg",
       "time": "6.00 PM",
-      "datetime": "2020-10-05T12:00:00Z",
+      "datetime": "2020-10-05T18:00:00",
       "title": "ITP Guide Finalizing ITP Projects",
       "description": "Register here http://bit.ly/ITPSession MS Club of SLIIT brings yet another session for students who are doing their ITP Projects. There's a difference between a good project and a great project. Join us on the 5th of October at 6 pm to know on how to make your ITP project stand out.",
       "tags": [
@@ -373,7 +373,7 @@
       "id": 25,
       "image": "/assets/event/pastEvents/Microsoft_Student_Champs_Sep.jpg",
       "time": "5.30 PM",
-      "datetime": "2020-09-10T12:00:00Z",
+      "datetime": "2020-09-10T17:30:00",
       "title": "Microsoft Student Champs",
       "description": "Invitations for 'MS Champs (September 2020)' has been sent out to the participants. Kindly, check your emails. We look forward to hosting you today at 5.30 pm!",
       "tags": [
@@ -389,7 +389,7 @@
       "id": 26,
       "image": "/assets/event/pastEvents/Git_and_GitHub.jpg",
       "time": "5.30 PM",
-      "datetime": "2020-08-30T12:00:00Z",
+      "datetime": "2020-08-30T17:30:00",
       "title": "Introduction to Git and GitHub",
       "description": "Inaugurating, the upcoming session, introduction to Git and GitHub with the resource person Chamod Shehanka, GitHub campus expert, Microsoft learn student ambassador, a software engineer at platformer. Join up with Edvicon International in order to improve your developer experience. Enroll now and start learning via https://forms.gle/EdvhYec1VekwB77V8",
       "tags": [
@@ -405,7 +405,7 @@
       "id": 27,
       "image": "/assets/event/pastEvents/Algorithm_Training.jpg",
       "time": "7.00 PM",
-      "datetime": "2020-08-10T12:00:00Z",
+      "datetime": "2020-08-10T19:00:00",
       "title": "Algorithm Training Session",
       "description": "The perfect opportunity to enhance your skills in algorithm and problem-solving. Don't miss it! Teams Live Event: https://bit.ly/2DssqRb 10.08.2020 7.00 PM",
       "tags": [
@@ -417,7 +417,7 @@
       "id": 28,
       "image": "/assets/event/pastEvents/Mobile_App_Dev.jpg",
       "time": "4.00 PM",
-      "datetime": "2020-07-04T12:00:00Z",
+      "datetime": "2020-07-04T16:00:00",
       "title": "Introduction to Mobile Application Development with Xamarin",
       "description": "Interested in Developing Mobile apps? If yes, this is a good opportunity for you. Attend to our online webinar on Introduction to Mobile App Development with Xamarin.What is Xamarin ? Xamarin extends the .NET platform with tools and libraries specifically for building apps on iOS,Android, MacOS, and more.Benefits of Xamarin ? ***A single code for all platforms ***Direct access to ***Usage of the .NET platform and Xamarin language C#, which is quite productive, clear and simple to learn and use Xamarin is Highly recommended by the professional Developers and undoubtedly one of the leading and powerful tools for mobile engineering available today. It combines the best of native and cross-platform features. Reserve your seat today!!! Register:bit.ly/msclubxamarinwebinar",
       "tags": [
@@ -431,7 +431,7 @@
       "id": 29,
       "image": "/assets/event/pastEvents/kubernetes.jpg",
       "time": "6.00 PM",
-      "datetime": "2020-05-26T12:00:00Z",
+      "datetime": "2020-05-26T18:00:00",
       "title": "Kubernetes Up & Running",
       "description": "Do you want to know how to work with Kubernetes? Do you feel tired of all the theories and introduction sessions? Do you want to learn how to actually set up and use Kubernetes in a working environment? Join us with the journey of Kubernetes Up and Running Register Now to reserve your seat : https://forms.office.com/Pages/ResponsePage.aspx...",
       "tags": [
@@ -443,7 +443,7 @@
       "id": 31,
       "image": "/assets/event/pastEvents/ITP_Guide_may.jpg",
       "time": "10.00 AM",
-      "datetime": "2020-05-22T12:00:00Z",
+      "datetime": "2020-05-22T10:00:00",
       "title": "Are you Struggling with your IT Project?",
       "description": "𝐀𝐫𝐞 𝐲𝐨𝐮 𝐒𝐭𝐫𝐮𝐠𝐠𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮𝐫 𝐈𝐓 𝐏𝐫𝐨𝐣𝐞𝐜𝐭? '𝘓𝘌𝘈𝘙𝘕 𝘛𝘖 𝘞𝘖𝘙𝘒 𝘚𝘔𝘈𝘙𝘛𝘌𝘙, 𝘕𝘖𝘛 𝘏𝘈𝘙𝘋𝘌𝘙' MS Club at SLIIT presents to you - ITP Guide A quick & complete guidance session on how to manage and develop your IT project. Along with a quick walkthrough of different technologies that you can use to get things done with less hassle and better standards.",
       "tags": [
@@ -457,7 +457,7 @@
       "id": 32,
       "image": "/assets/event/pastEvents/Microsoft_Student_Champs_May_2020.jpg",
       "time": "5.00 PM",
-      "datetime": "2020-05-09T12:00:00Z",
+      "datetime": "2020-05-09T17:00:00",
       "title": "Microsoft Student Champs",
       "description": "Microsoft Student Partners of Sri Lanka would love for you to meet Mr Isura Nirmal and Mr Sajeetharan Sinnathurai. We'll meet on 09th May @5.00 PM. Reserve your seat: https://bit.ly/3fhs9OM",
       "tags": [
@@ -472,7 +472,7 @@
       "id": 33,
       "image": "/assets/event/pastEvents/Online_Tech_Talk_O365.jpg",
       "time": "3.30 PM",
-      "datetime": "2020-05-04T12:00:00Z",
+      "datetime": "2020-05-04T15:30:00",
       "title": "Online Tech Talks - Increasing University Productivity with Office 365",
       "description": "Mr.Prabhath Mannapperuma, the Partner Technolgy Strategist at Microsoft will conduct an online session on “Increasing university productivity with Office 365” Join via: shorturl.at/cDJL1",
       "tags": [
@@ -486,7 +486,7 @@
       "id": 34,
       "image": "/assets/event/pastEvents/Online_Tech_Talk_Angular.jpg",
       "time": "4.00 PM",
-      "datetime": "2020-04-25T12:00:00Z",
+      "datetime": "2020-04-25T16:00:00",
       "title": "Online Tech Talk",
       "description": "The wait is over!  Sajeetharan Sinnathurai and Prabhath Mannapperuma will be the two guest speakers of the very first rTECHulate session First of all, register yourself to be part of the session  https://forms.gle/mtVKyZR8GsjPBnjT6And don't forget to share the news with your tech enthusiast friends The session is open for all University undergraduates!",
       "tags": [
@@ -501,7 +501,7 @@
       "id": 35,
       "image": "/assets/event/pastEvents/App_In_A_Day.jpg",
       "time": "9.00 AM",
-      "datetime": "2020-03-06T12:00:00Z",
+      "datetime": "2020-03-06T09:00:00",
       "title": "App in A Day",
       "description": "Are you an undergraduate who is willing to learn new technologies? Then this is a chance for you. Join us with the second event of Cloud Streak, where you learn how to create and deploy your own web application within a day. Prerequisites VS Code Visual Studio Community Edition SQL Server (Developer Edition) Azure Data Studio NodeJs Latest version And please make sure you have access to your azure account provided by SLIIT. Please bring your own Wi-Fi and Extension Cables to charge your laptops Please contact us, in case you have any problems with the prerequisites.",
       "tags": [
@@ -517,7 +517,7 @@
       "id": 36,
       "image": "/assets/event/pastEvents/Mini_Hackathon_2019.jpg",
       "time": "6.00 AM",
-      "datetime": "2019-10-29T12:00:00Z",
+      "datetime": "2019-10-29T06:00:00",
       "title": "SLIIT MiniHackathon 2019",
       "description": "",
       "tags": [
@@ -534,7 +534,7 @@
       "id": 37,
       "image": "/assets/event/pastEvents/App_cloud.jpg",
       "time": "6.00 AM",
-      "datetime": "2019-10-21T12:00:00Z",
+      "datetime": "2019-10-21T06:00:00",
       "title": "Build Future Proof Applications on Cloud",
       "description": "~ Modernizing apps on Azure ~Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform that enables users to quickly build, deploy, and manage applications across a global network of Microsoft-managed datacenters. These applications can be built using any language, tool, or framework. In this session, we will explore the process of building future-proof applications seamlessly with Microsoft Azure focusing on the technologies that underpin that path and see how the app modernization will help to stay focused on accelerating the business growth. ~ Multi Region Deployment in Cloud ~ A flexible deployment architecture is essential for business growth, for companies with presences in multiple countries or are planning to expand globally. Multi region deployment of this manner will improve the efficiency, scalability and availability of their global systems and ensure high productivity. This session will focus on managing Multi Region Deployment in Cloud and its benefits to organizations at large.",
       "tags": [
@@ -547,7 +547,7 @@
       "id": 38,
       "image": "/assets/event/pastEvents/Mini_Hackathon_2019_Intro.jpg",
       "time": "8.30 PM",
-      "datetime": "2019-10-02T12:00:00Z",
+      "datetime": "2019-10-02T20:30:00",
       "title": "Mini-Hackathon 2019",
       "description": "Group Registrations are Now Open : https://bit.ly/2lW0ImZ Mini Hackathon 2019.",
       "tags": [
@@ -564,7 +564,7 @@
       "id": 39,
       "image": "/assets/event/pastEvents/MSChamp_2019_Sep.jpg",
       "time": "4.00 PM",
-      "datetime": "2019-09-27T12:00:00Z",
+      "datetime": "2019-09-27T16:00:00",
       "title": "Microsoft Student Chaps",
       "description": "Join this month's edition of Microsoft Student Champs on 27th of September 4.00 PM onwards at Microsoft Sri Lanka premises and explore the world of Data Science/ Cloud with two Microsoft Most valuable professional's.Register using - https://forms.office.com/Pages/ResponsePage.aspx...",
       "tags": [
@@ -577,7 +577,7 @@
       "id": 40,
       "image": "/assets/event/pastEvents/Cloud_Azure.jpg",
       "time": "9.00 AM",
-      "datetime": "2019-09-23T12:00:00Z",
+      "datetime": "2019-09-23T09:00:00",
       "title": "Step into the cloud with Azure",
       "description": "The first session of the Cloud Streak Program will be held on the 23rd of September. Prerequisites : 01. Create an Azure Student Account  Visit https://azure.microsoft.com/en-us/free/students/ Click on activate now and login with your SLIIT email and machine login password. 02. Install Visual Studio with ‘Azure Development ‘ workload  selected https://docs.microsoft.com/... install-visual-studio... Please select Azure development in the dialog box. 03. Bring your Laptops with the charger 04. We will try our best to provide Wi-Fi but better to have your own Wi-Fi incase of a miss-connection 05. Bring your own power extension cables 06. Be present at least at 8.45 am to make the registration process much easier. Feel free to contact Gihan Siriwardhana ( gihan.siriwardhana@studentpartner.com ) if you have any questions.",
       "tags": [
@@ -591,7 +591,7 @@
       "id": 41,
       "image": "/assets/event/pastEvents/MSC_2019_Aug.png",
       "time": "4.00 PM",
-      "datetime": "2019-08-27T12:00:00Z",
+      "datetime": "2019-08-27T16:00:00",
       "title": "Microsoft Student Champs – August Meetup",
       "description": "Join this month's edition of Microsoft Student Champs on 27th of August 4.00 PM onwards at Microsoft Sri Lanka premises and explore the world of Cyber Security with leading Microsoft Most valuable professional's.Register using - https://forms.office.com/Pages/ResponsePage.aspx...",
       "tags": [
@@ -605,7 +605,7 @@
       "id": 42,
       "image": "/assets/event/pastEvents/MSC_2019_July.jpg",
       "time": "4.00 PM",
-      "datetime": "2019-07-30T12:00:00Z",
+      "datetime": "2019-07-30T16:00:00",
       "title": "Microsoft Student Champs – July Meetup",
       "description": "Join this month's edition of Microsoft Student Champs on 30th of July 4.00 PM onwards at Microsoft Sri Lanka premises and explore the world of Data Science/ Cloud with two Microsoft Most valuable professional's.Register using - https://forms.office.com/Pages/ResponsePage.aspx...",
       "tags": [
@@ -620,7 +620,7 @@
       "id": 43,
       "image": "/assets/event/pastEvents/MSC_2019_June.png",
       "time": "4.00 PM",
-      "datetime": "2019-06-28T12:00:00Z",
+      "datetime": "2019-06-28T16:00:00",
       "title": "Microsoft Student Champs – June Meetup",
       "description": "Join this month's edition of Microsoft Student Champs on 28th of June 4.00 PM onwards at Microsoft Sri Lanka premises and explore the world of Data Science/ Cloud with two Microsoft Most valuable professional's in Sri Lanka. Register using - https://forms.office.com/Pages/ResponsePage.aspx...",
       "tags": [
@@ -633,7 +633,7 @@
       "id": 44,
       "image": "/assets/event/pastEvents/Git_Webinar_2019.jpg",
       "time": "8.30 AM",
-      "datetime": "2019-03-05T12:00:00Z",
+      "datetime": "2019-03-05T08:30:00",
       "title": "GIT and Container Workshop",
       "description": "The tech talk sessions, organized by the MS Club of SLIIT are here! T3 Series is bringing you industry experts to walk you through collaborative version control, using GitHub to launching your software on Docker and Kubernetes. Date: 5th March 2019 Venue: SLIIT Auditorium Please register for the event by filling this form https://forms.office.com/Pages/ResponsePage.aspx...",
       "tags": [
