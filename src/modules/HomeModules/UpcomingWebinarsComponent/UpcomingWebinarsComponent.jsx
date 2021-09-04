@@ -18,9 +18,11 @@ const UpcomingWebinarsComponent = () => (
               <strong>{webinarEvents.data.title}</strong>
             </h2>
             <p className="lead mt-3">{webinarEvents.data.description}</p>
-            <button type="button" className="btn btn-success btn-pill mt-3">
-              Read More
-            </button>
+            <a href={webinarEvents.data.link} target="_blank" rel="noopener noreferrer">
+              <button type="button" className="btn btn-success btn-pill mt-3">
+                Read More
+              </button>
+            </a>
           </div>
 
           <div className="col-lg-5 col-md-12 col-sm-12 upcomming-webinar-img-div d-none d-xl-block">
