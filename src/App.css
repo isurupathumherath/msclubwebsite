@@ -54,3 +54,225 @@ body {
 .btn-pill {
   border-radius: 20px;
 }
+
+@media (min-width: 0px) {
+  .ms-card-img {
+    border-radius: 10px 10px 0px 0px;
+    height: 110px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .ms-card-body {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .ms-card-header-row {
+    height: 60px;
+    padding-left: 5px;
+  }
+
+  .ms-tags {
+    height: 30px;
+    font-size: 10px;
+  }
+
+  .ms-title {
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .ms-card {
+    width: 100%;
+    height: 290px;
+    border-radius: 10px 10px;
+    background: var(--light);
+    transition: 0.2s;
+    border-radius: 20px;
+  }
+
+  .ms-card-btn {
+    border-radius: 15px;
+    font-family: 'Roboto';
+    font-size: 12px;
+    margin-top: 8px;
+  }
+}
+
+@media (min-width: 576px) {
+  .ms-card-img {
+    border-radius: 10px 10px 0px 0px;
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .ms-card-body {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .ms-card-header-row {
+    height: 70px;
+    padding-left: 5px;
+  }
+
+  .ms-tags {
+    height: 50px;
+  }
+
+  .ms-title {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .ms-card {
+    width: 300px;
+    height: 400px;
+    border-radius: 10px 10px;
+    background: var(--light);
+    transition: 0.2s;
+    border-radius: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .ms-card-img {
+    border-radius: 10px 10px 0px 0px;
+    height: 140px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .ms-card-body {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .ms-card-header-row {
+    height: 70px;
+    padding-left: 5px;
+  }
+
+  .ms-tags {
+    height: 50px;
+  }
+
+  .ms-title {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .ms-card {
+    width: 250px;
+    height: 360px;
+    border-radius: 10px 10px;
+    background: var(--light);
+    transition: 0.2s;
+    border-radius: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .ms-card-img {
+    border-radius: 10px 10px 0px 0px;
+    height: 180px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .ms-card-body {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .ms-card-header-row {
+    height: 60px;
+    padding-left: 5px;
+  }
+
+  .ms-tags {
+    height: 50px;
+  }
+
+  .ms-title {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .ms-card {
+    width: 320px;
+    height: 400px;
+    border-radius: 10px 10px;
+    background: var(--light);
+    transition: 0.2s;
+    border-radius: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .ms-card-img {
+    border-radius: 10px 10px 0px 0px;
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .ms-card-body {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .ms-card-header-row {
+    height: 60px;
+  }
+
+  .ms-card {
+    width: 380px;
+    height: 410px;
+    border-radius: 10px 10px;
+    background: var(--light);
+    transition: 0.2s;
+    border-radius: 20px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .ms-card-img {
+    border-radius: 10px 10px 0px 0px;
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .ms-card-body {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .ms-card-header-row {
+    height: 60px;
+    padding-left: 5px;
+  }
+
+  .ms-card-title {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .ms-card {
+    width: 350px;
+    height: 400px;
+    border-radius: 10px 10px;
+    background: var(--light);
+    transition: 0.2s;
+    border-radius: 20px;
+  }
+}

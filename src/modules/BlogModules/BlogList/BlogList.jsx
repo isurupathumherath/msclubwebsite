@@ -23,7 +23,7 @@ const BlogList = () => {
         <div className="container-fluid">
           <div className="row">
             {posts.map((post) => (
-              <div className="col-lg-4 col-md-3 col-sm-12" key={post}>
+              <div className="col" key={post}>
                 <BlogCard
                   image={post.thumbnail}
                   title={post.title}

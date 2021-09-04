@@ -15,14 +15,15 @@
 }
 
 .content {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .about-us-card {
   border-radius: 10px;
   text-align: center;
   background: var(--light);
-  box-shadow: 0px 0px 0px var(--light-shadow-color);
+  height: 100px;
+  box-shadow: 0px 0px 0px var(--light);
   -webkit-transition: box-shadow 0.3s ease-out;
 }
 
@@ -31,13 +32,33 @@
   -webkit-transition: box-shadow 0.2s ease-in;
 }
 
+@media (min-width: 0px) {
+  .container {
+    max-width: 880px;
+  }
+
+  .about-us-card {
+    height: 180px;
+  }
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 880px;
+  }
+
+  .about-us-card {
+    height: 180px;
+  }
+}
+
 @media (min-width: 768px) {
   .container {
     max-width: 880px;
   }
 
   .about-us-card {
-    height: 320px;
+    height: 180px;
   }
 }
 
@@ -47,7 +68,7 @@
   }
 
   .about-us-card {
-    height: 250px;
+    height: 180px;
   }
 }
 
@@ -57,7 +78,7 @@
   }
 
   .about-us-card {
-    height: 230px;
+    height: 180px;
   }
 }
 
@@ -67,6 +88,6 @@
   }
 
   .about-us-card {
-    height: 220px;
+    height: 180px;
   }
 }

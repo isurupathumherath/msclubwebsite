@@ -4,29 +4,36 @@ import './EventCardStyle.css';
 import moment from 'moment';
 
 const EventCardComponent = ({ image, title, description, tags, datetime, link }) => (
-  <div className="event-card card mb-3 mt-3">
+  <div className="ms-event-card card mb-3 mt-3">
     <div>
-      <img className="past-event-img" src={image} alt="Card cap" />
+      <img className="img-fluid ms-event-card-img" src={image} alt="Card cap" />
     </div>
 
-    <div className="card-body">
-      {tags &&
-        tags.map((tag) => (
-          <span key={tag} className="badge rounded-pill bg-event event-tags text-dark">
-            {tag.toUpperCase()}
-          </span>
-        ))}
+    <div className="ms-event-card-body">
+      <div className="ms-event-tags">
+        {tags &&
+          tags.slice(0, 3).map((tag) => (
+            <span key={tag} className="badge rounded-pill bg-event event-tags text-dark text-bold">
+              {tag.toUpperCase()}
+            </span>
+          ))}
+      </div>
       <div>
-        <h5 className="card-title">{title}</h5>
-        <p className="description">{description}</p>
+        <div className="row ms-event-card-header-row">
+          <div className="col-md-10 col-sm-10 col-10 mt-1">
+            <h5 className="card-title text-left ms-event-card-title">{title}</h5>
+            <p className="ms-event-description">{description}</p>
+          </div>
+        </div>
+        <div className="d-flex justify-content-center mt-3">
+          <i className="fas fa-calendar-alt fa-lg mt-1" />
+          <span className="badge rounded-pill event-date text-muted">{moment(datetime).format('lll')}</span>
+        </div>
       </div>
-      <div className="d-flex justify-content-center">
-        <i className="fas fa-calendar-alt fa-lg mt-1" />
-        <span className="badge rounded-pill event-date text-dark">{moment(datetime).format('lll')}</span>
-      </div>
+
       <div className="d-flex justify-content-center">
         <a href={link} target="_blank" rel="noopener noreferrer">
-          <button className="btn btn-success event-btn btn-sm" type="button">
+          <button className="btn btn-success event-btn btn-sm ms-event-btn" type="button">
             MORE INFO
           </button>
         </a>

@@ -31,10 +31,10 @@ const responsive = {
     items: 3,
   },
   1400: {
-    items: 3.3,
+    items: 3.5,
   },
   1700: {
-    items: 4,
+    items: 4.5,
   },
 };
 

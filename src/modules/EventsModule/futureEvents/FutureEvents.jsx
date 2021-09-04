@@ -32,10 +32,13 @@ const responsive = {
     items: 3,
   },
   1400: {
-    items: 3.3,
+    items: 4,
   },
   1700: {
-    items: 4,
+    items: 4.5,
+  },
+  2000: {
+    items: 5,
   },
 };
 let slider;
@@ -87,6 +90,7 @@ const FutureEvents = () => (
             image={event.image}
             title={event.title}
             datetime={event.datetime}
+            description={event.description}
             tags={event.tags}
           />
         ))}

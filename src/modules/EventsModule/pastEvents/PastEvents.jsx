@@ -35,7 +35,10 @@ const responsive = {
     items: 3.3,
   },
   1700: {
-    items: 4,
+    items: 4.5,
+  },
+  2000: {
+    items: 5,
   },
 };
 let slider;
