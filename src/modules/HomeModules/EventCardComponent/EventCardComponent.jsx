@@ -34,7 +34,7 @@ const EventCardComponent = ({ image, title, titlesmall, description, tags, datet
       <div className="d-flex justify-content-center">
         <a href={link} target="_blank" rel="noopener noreferrer">
           <button className="btn btn-success event-btn btn-sm ms-event-btn" type="button">
-            {titlesmall}
+            More Info - {titlesmall}
           </button>
         </a>
       </div>
