@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import './EventCardStyle.css';
 import moment from 'moment';
 
-const EventCardComponent = ({ image, title, description, tags, datetime, link }) => (
+const EventCardComponent = ({ image, title, titlesmall, description, tags, datetime, link }) => (
   <div className="ms-event-card card mb-3 mt-3">
     <div>
       <img className="img-fluid ms-event-card-img" src={image} alt="Card cap" />
@@ -34,7 +34,7 @@ const EventCardComponent = ({ image, title, description, tags, datetime, link })
       <div className="d-flex justify-content-center">
         <a href={link} target="_blank" rel="noopener noreferrer">
           <button className="btn btn-success event-btn btn-sm ms-event-btn" type="button">
-            MORE INFO
+            {titlesmall}
           </button>
         </a>
       </div>
@@ -45,6 +45,7 @@ const EventCardComponent = ({ image, title, description, tags, datetime, link })
 EventCardComponent.propTypes = {
   image: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
+  titlesmall: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
   tags: PropTypes.array.isRequired,
   datetime: PropTypes.string.isRequired,
