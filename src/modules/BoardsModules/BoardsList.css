@@ -1,0 +1,50 @@
+  .board-topic{
+    font-size: 70px;
+    font-family: Product Sans;
+    font-weight: bolder;
+  }
+  .board-topic-year{
+    font-size: 40px;
+    font-family: Product Sans;
+  }
+
+  .btndiv{
+    margin-bottom: 10px;
+  }
+  .year-btn {
+    transition: all 0.2s ease;
+  }
+  
+  .year-btn:active {
+    box-shadow: 0 0 0 white;
+    transform: scale(0.97);
+  }
+  
+  .year-btn:hover {
+    border: 1px solid rgba(0.1, 0.1, 0.1, 0.1);
+    box-shadow: 0px 0px 5px 5px rgba(0.15, 0.15, 0.15, 0.15);
+  }
+  
+  .year-btn {
+    width: 130px;
+    height: 40px;
+    background: #2cb93b;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 16px;
+    border: none;
+    box-shadow: 0px 5px 8px rgba(0.15, 0.15, 0.15, 0.15);
+    transition: all 0.05s ease;
+  }
+  
+  .year-btn:active {
+    box-shadow: 0 0 0 white;
+    transform: scale(0.97);
+  }
+  
+  .year-btn:hover {
+    border: 1px solid rgba(0.1, 0.1, 0.1, 0.1);
+    box-shadow: 0px 0px 5px 5px rgba(0.15, 0.15, 0.15, 0.15);
+  }
+  
