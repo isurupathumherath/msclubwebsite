@@ -32,7 +32,7 @@ const BlogCard = ({ image, title, tags, datetime, link }) => (
       <div className="d-flex justify-content-center">
         <a href={link} target="_blank" rel="noopener noreferrer">
           <button className="btn btn-success event-btn btn-sm ms-card-btn" type="button">
-            {title}
+            Read More
           </button>
         </a>
       </div>

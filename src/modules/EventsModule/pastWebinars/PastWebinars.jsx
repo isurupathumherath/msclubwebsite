@@ -88,7 +88,6 @@ const PastWebinars = () => (
             key={webinar.id}
             image={webinar.image}
             title={webinar.title}
-            titlesmall={webinar.titlesmall}
             description={webinar.description}
             datetime={webinar.datetime}
             tags={webinar.tags}

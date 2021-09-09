@@ -24,7 +24,7 @@ const ContactForm = () => (
     <NotificationContainer />
     <div className="container">
       <div className="row mt-3 mb-5">
-        <h1 className="text-center display-6 contactform-title">Contact Us</h1>
+        <h1 className="text-center display-6 contactform-title mt-3">Contact Us</h1>
         <div className="col-md-6">
           <img src={ContactUsImg} className="img-fluid" alt="contactImg" />
         </div>

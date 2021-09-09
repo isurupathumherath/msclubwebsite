@@ -8,7 +8,7 @@ export default class BoardList extends Component {
     super(props);
     this.state = {
       id: 0,
-      year: 2019,
+      year: 2021,
     };
   }
 
@@ -27,7 +27,7 @@ export default class BoardList extends Component {
     return (
       <div className="container">
         <div className="row">
-          <span className="board-topic">
+          <span className="board-topic mt-2">
             Meet the Board{' '}
             <b className="board-topic-year">
               {nextBoard.year} - {this.incrementNumber(nextBoard.year)}
@@ -35,7 +35,7 @@ export default class BoardList extends Component {
           </span>
           <hr />
           <div className="col-md-2 pt-4">
-            {BoardData.data.reverse().map((board) => (
+            {BoardData.data.map((board) => (
               <div className="row" key={board.id}>
                 <button
                   type="button"

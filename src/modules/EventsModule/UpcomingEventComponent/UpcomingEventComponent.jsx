@@ -20,7 +20,7 @@ const UpcomingEventComponent = () => (
             </h2>
             <p className="lead mt-3">{upcomingEvents.data.description}</p>
             <button type="button" className="btn btn-success btn-pill mt-3">
-              Read More - {upcomingEvents.data.title}
+              More Info
             </button>
           </div>
         </div>

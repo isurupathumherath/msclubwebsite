@@ -20,7 +20,7 @@ const BoardCard = ({ image, name, position, socialmedia }) => (
           )}
           {socialmedia.linkedin && (
             <a href={socialmedia.linkedin} target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-instagram fa-lg p-1" />
+              <i className="fab fa-linkedin  fa-lg p-1" />
             </a>
           )}
           {socialmedia.twitter && (
@@ -30,7 +30,7 @@ const BoardCard = ({ image, name, position, socialmedia }) => (
           )}
           {socialmedia.instagram && (
             <a href={socialmedia.instagram} target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-linkedin fa-lg p-1" />
+              <i className="fab fa-instagram fa-lg p-1" />
             </a>
           )}
         </div>
