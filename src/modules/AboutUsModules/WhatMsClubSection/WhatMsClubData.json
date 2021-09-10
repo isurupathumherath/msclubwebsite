@@ -1,0 +1,22 @@
+{
+   "nissanka": {
+      "id": 1,
+      "name": "Anju Nissanka"
+   },
+   "akhila": {
+      "id": 2,
+      "name": "Akhila Shalinda"
+   },
+   "anushka": {
+      "id": 3,
+      "name": "Anushka Hapukotuwa"
+   },
+   "manuja": {
+      "id": 4,
+      "name": "Manuja Liyanage"
+   },
+   "gihan": {
+      "id": 5,
+      "name": "Gihan Siriwardhana"
+   }
+}

@@ -11,7 +11,7 @@ describe('AboutUsModule - WhatMsClub.jsx', () => {
   });
 
   test('render with correct title', () => {
-    const titleText = 'What is MS Club of SLIIT ?';
+    const titleText = 'PIONEERS OF MS CLUB';
     render(<WhatMsClub />);
     expect(screen.queryByText(titleText)).toBeInTheDocument();
   });

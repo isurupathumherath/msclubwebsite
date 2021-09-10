@@ -1,7 +1,10 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import './MissionVision.css';
-import FlatVector from '../../../assets/flat-illustrations/boardpeople.png';
+import mission from '../../../assets/flat-illustrations/mission.jpg';
+import vision from '../../../assets/flat-illustrations/vision.jpg';
+import strategy from '../../../assets/flat-illustrations/strategy.jpg';
+
 import content from './MissionVisionData.json';
 
 const MissionVision = () => (
@@ -10,7 +13,7 @@ const MissionVision = () => (
       <div className="sec-1">
         <div className="row text-left text-sm-center align-items-center pt-5 pb-md-5 ">
           <div className="col-4 col-md-5 col-sm-8">
-            <img alt="image" className="img-fluid" src={FlatVector} />
+            <img alt="image" className="img-fluid" src={mission} />
           </div>
 
           <div className="col-12 col-md-5">
@@ -24,7 +27,7 @@ const MissionVision = () => (
 
       <div className="row text-left align-items-center pt-5 pb-md-5">
         <div className="col-4 col-md-5 col-sm-8  order-md-5">
-          <img alt="image" className="img-fluid" src={FlatVector} />
+          <img alt="image" className="img-fluid" src={vision} />
         </div>
 
         <div className="col-12 col-md-5">
@@ -37,7 +40,7 @@ const MissionVision = () => (
 
       <div className="row text-left align-items-center pt-5 pb-md-5">
         <div className="col-4 col-md-5 col-sm-8">
-          <img alt="image" className="img-fluid" src={FlatVector} />
+          <img alt="image" className="img-fluid" src={strategy} />
         </div>
 
         <div className="col-12 col-md-5">

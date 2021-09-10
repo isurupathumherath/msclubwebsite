@@ -1,6 +1,6 @@
 import React from 'react';
 import './HeroSection.css';
-import headerImage from '../../../assets/about-us/header-img.svg';
+import headerImage from '../../../assets/about-us/header-img.jpg';
 import content from './HeroSectionData.json';
 
 const HeroSection = () => (
