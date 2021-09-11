@@ -1,7 +1,6 @@
 import React from 'react';
 import WhatWeDoSection from '../../modules/HomeModules/WhatWeDoSection/WhatWeDoSection';
 import HomeHeroSection from '../../modules/HomeModules/HeroSectionModules/HomeHeroSection';
-import UpcomingEventComponent from '../../modules/EventsModule/UpcomingEventComponent/UpcomingEventComponent';
 import PastEvents from '../../modules/EventsModule/pastEvents/PastEvents';
 import PastWebinars from '../../modules/EventsModule/pastWebinars/PastWebinars';
 import UpcomingWebinarsComponent from '../../modules/HomeModules/UpcomingWebinarsComponent/UpcomingWebinarsComponent';
@@ -17,7 +16,6 @@ const Home = () => (
       <UpcomingWebinarsComponent />
       <PastWebinars />
     </div>
-    <UpcomingEventComponent />
     <PastEvents />
   </div>
 );

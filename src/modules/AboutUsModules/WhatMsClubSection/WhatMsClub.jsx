@@ -49,8 +49,11 @@ const WhatMsClub = () => (
         <div>
           <OwlCarousel className="owl-theme" dots={false} loop responsive={responsive}>
             {pioneers.data.map((pioneer) => (
-              <div key={pioneer.id}>
-                <img src={pioneer.image} className="image-fluid" alt={pioneer.id} />
+              <div key={pioneer.id} className="img__wrap">
+                <img src={pioneer.image} className="image-fluid pioneer_image" alt={pioneer.id} />
+                <p className="img__description">
+                  <span className="img__description_background">{pioneer.name}</span>
+                </p>
               </div>
             ))}
           </OwlCarousel>

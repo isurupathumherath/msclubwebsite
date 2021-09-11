@@ -59,8 +59,8 @@ function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navLink" href="/boards">
-                  Boards
+                <a className="nav-link navLink" href="/board">
+                  Board
                 </a>
               </li>
               <li className="nav-item">

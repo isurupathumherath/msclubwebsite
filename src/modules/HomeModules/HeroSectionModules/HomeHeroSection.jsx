@@ -14,9 +14,11 @@ const HomeHeroSection = () => (
         <div>
           <p className="home-header-content">{content.description}</p>
         </div>
-        <button type="button" className="home-header-btn btn btn-success btn-pill">
-          Join Now
-        </button>
+        <a href="https://forms.office.com/r/xLw6LFrmJV" target="_blank" rel="noopener noreferrer">
+          <button type="button" className="home-header-btn btn btn-success btn-pill">
+            Join Now
+          </button>
+        </a>
       </div>
       <div className="col-sm-12 col-md-6 col-lg-6">
         <img src={HeroHeaderImage} alt="home header img" className="home-header-img" />

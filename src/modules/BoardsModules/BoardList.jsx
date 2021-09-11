@@ -8,7 +8,7 @@ export default class BoardList extends Component {
     super(props);
     this.state = {
       id: 0,
-      year: 2021,
+      year: 2020,
     };
   }
 

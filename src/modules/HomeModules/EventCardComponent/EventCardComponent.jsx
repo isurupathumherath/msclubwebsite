@@ -12,7 +12,7 @@ const EventCardComponent = ({ image, title, description, tags, datetime, link })
     <div className="ms-event-card-body">
       <div className="ms-event-tags">
         {tags &&
-          tags.slice(0, 3).map((tag) => (
+          tags.slice(0, 2).map((tag) => (
             <span key={tag} className="badge rounded-pill bg-event event-tags text-dark text-bold">
               {tag.toUpperCase()}
             </span>

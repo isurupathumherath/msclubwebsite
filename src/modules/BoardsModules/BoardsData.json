@@ -2,96 +2,6 @@
   "data": [
     {
       "id": 1,
-      "year": "2021",
-      "board": [
-        {
-          "id": 1,
-          "name": "Sample Name",
-          "position": "President",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        },
-        {
-          "id": 2,
-          "name": "Sample Name",
-          "position": "Vice President",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        },
-        {
-          "id": 3,
-          "name": "Sample Name",
-          "position": "Secretary",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        },
-        {
-          "id": 4,
-          "name": "Sample Name",
-          "position": "Assistant Secretary",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        },
-        {
-          "id": 5,
-          "name": "Sample Name",
-          "position": "Treasurer",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        },
-        {
-          "id": 6,
-          "name": "Sample Name",
-          "position": "Assistant Treasurer",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        },
-        {
-          "id": 7,
-          "name": "Sample Name",
-          "position": "Editor",
-          "image": "/assets/boards/maleAvatar.jpg",
-          "socialmedia": {
-            "facebook": "https://ms-club-website.web.app/",
-            "linkedin": "https://ms-club-website.web.app/",
-            "instagram": "https://ms-club-website.web.app/",
-            "twitter": "https://ms-club-website.web.app/"
-          }
-        }
-      ]
-    },
-    {
-      "id": 2,
       "year": "2020",
       "board": [
         {
@@ -108,7 +18,7 @@
         },
         {
           "id": 2,
-          "name": "Vice President",
+          "name": "Dinuwan Kalubowila",
           "position": "Vice President",
           "image": "/assets/boards/2020/dinuwan.jpg",
           "socialmedia": {
@@ -193,7 +103,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "year": "2019",
       "board": [
         {

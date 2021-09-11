@@ -1,15 +1,49 @@
-@media only screen 
-and (min-device-width: 320px) 
-and (max-device-width: 768px)
-and (-webkit-min-device-pixel-ratio: 2)  {
-
-    h1 {
-        padding-top: 20px;
-    }
+@media only screen and (min-device-width: 320px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+  h1 {
+    padding-top: 20px;
+  }
 }
 
-.PioneerDivider{
-    margin-top: 50px;
-    height:50px;
-    border-top: 5px solid gray;
+.PioneerDivider {
+  margin-top: 50px;
+  height: 50px;
+  border-top: 5px solid gray;
+}
+
+/* relevant styles */
+.img__wrap {
+  position: relative;
+}
+
+.img__description {
+  position: absolute;
+  top: 80%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: rgb(62, 126, 3);
+  visibility: hidden;
+  opacity: 0;
+  font-size: x-large;
+  font-weight: bolder;
+
+  /* transition effect. not necessary */
+  transition: opacity 0.2s, visibility 0.2s;
+}
+
+.img__wrap:hover .img__description {
+  visibility: visible;
+  opacity: 1;
+}
+
+.img__description_background {
+  background-color: azure;
+  padding: 2px 6px;
+  border-radius: 15px;
+}
+
+@media (min-width: 1400px) {
+  .img__description {
+    top: 85%;
+  }
 }
