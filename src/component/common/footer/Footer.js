@@ -33,6 +33,16 @@ const footer = () => (
                       <i className="bi bi-instagram socialmediaIcons text-white" />
                     </a>
                   </div>
+                  <div className="col-lg-1 col-md-1 col-sm-1 socialMediaCol">
+                    <a href="https://www.youtube.com/channel/UCoSzsIgJZY52iiWu5YNI0Xg" rel="noreferrer" target="_blank">
+                      <i className="bi bi-youtube socialmediaIcons text-white" />
+                    </a>
+                  </div>
+                  <div className="col-lg-1 col-md-1 col-sm-1 socialMediaCol">
+                    <a href="https://medium.com/ms-club-of-sliit" rel="noreferrer" target="_blank">
+                      <i className="fab fa-medium socialmediaIcons text-white" />
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
