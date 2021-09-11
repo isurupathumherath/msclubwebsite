@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "image": "https://blog.bizzabo.com/hs-fs/hubfs/Microsoft%20Event%20Marketing/microsoft-event-marketing-blue-min.png?width=500&name=microsoft-event-marketing-blue-min.png",
+      "image": "/assets/pastwebinars/ITPMERN.svg",
       "time": "6.00 PM",
       "datetime": "2021-07-12T18:00:00",
       "title": "ITP GUIDE 2.0 - KICKSTART YOUR MERN APPLICATION WITH GitHub",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "image": "https://blog.bizzabo.com/hs-fs/hubfs/Microsoft%20Event%20Marketing/microsoft-event-marketing-blue-min.png?width=500&name=microsoft-event-marketing-blue-min.png",
+      "image": "/assets/pastwebinars/ITP.svg",
       "time": "6.00 PM",
       "datetime": "2021-06-28T18:00:00",
       "title": "ITP GUIDE 2.0 WANNA TAKE YOUR IT PROJECT TO THE NEXT LEVEL?",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "image": "https://blog.bizzabo.com/hs-fs/hubfs/Microsoft%20Event%20Marketing/microsoft-event-marketing-blue-min.png?width=500&name=microsoft-event-marketing-blue-min.png",
+      "image": "/assets/pastwebinars/Azurefundementals.svg",
       "time": "7.30 PM",
       "datetime": "2021-03-12T18:30:00",
       "title": "The Azure Fundamentals Workshop",
