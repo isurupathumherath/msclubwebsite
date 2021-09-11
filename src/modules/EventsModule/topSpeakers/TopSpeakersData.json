@@ -64,6 +64,19 @@
         "linkedIn": "https://lk.linkedin.com/pub/dinesh-priyankara/32/6a0/570",
         "web": "http://dinesql.blogspot.com/"
       }
+    },
+    {
+      "id": 6,
+      "image": "/assets/speakers/malith.jpg",
+      "title": "Malith Wimanna",
+      "description": "Head of Learning at N Tech Learning & Solutions . Microsoft Certified Trainers",
+      "socialMediaURLs": {
+        "fb": "https://www.facebook.com/malithofficial",
+        "instagram": "",
+        "twitter": "",
+        "linkedIn": "",
+        "web": ""
+      }
     }
   ]
 }

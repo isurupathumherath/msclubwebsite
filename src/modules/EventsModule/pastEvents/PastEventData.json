@@ -2,17 +2,17 @@
   "data": [
     {
       "id": 1,
-      "image": "https://blog.bizzabo.com/hs-fs/hubfs/Microsoft%20Event%20Marketing/microsoft-event-marketing-blue-min.png?width=500&name=microsoft-event-marketing-blue-min.png",
+      "image": "/assets/pastevents/MinHackathon.svg",
       "time": "7.30 PM",
       "datetime": "2021-04-23T19:30:00",
-      "title": "HACKATHON 4.0",
+      "title": "MINI-HACKATHON 4.0",
       "description": "Are you struggling to comprehend the WHATs, WHYs, and HOWs of Mini Hackathon 4.0?",
       "tags": ["msclubofsliit", "fcsc", "growtogether", "minihackathon"],
       "link": "https://ms-club-sliit.github.io/minihackathon/"
     },
     {
       "id": 2,
-      "image": "https://blog.bizzabo.com/hs-fs/hubfs/Microsoft%20Event%20Marketing/microsoft-event-marketing-blue-min.png?width=500&name=microsoft-event-marketing-blue-min.png",
+      "image": "/assets/pastevents/cloudSkills.svg",
       "time": "6.00 PM",
       "datetime": "2021-01-10T18:00:00",
       "title": "Cloud Skills Challenge",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "image": "https://blog.bizzabo.com/hs-fs/hubfs/Microsoft%20Event%20Marketing/microsoft-event-marketing-blue-min.png?width=500&name=microsoft-event-marketing-blue-min.png",
+      "image": "/assets/pastevents/appinaday.svg",
       "time": "9.00 AM",
       "datetime": "2020-03-06T09:00:00",
       "title": "App in A Day",

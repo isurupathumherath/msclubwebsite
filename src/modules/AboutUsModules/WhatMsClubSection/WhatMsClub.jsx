@@ -1,32 +1,50 @@
 import React from 'react';
 import './WhatMsClub.css';
-import nissanka from '../../../assets/pioneers/nissanka.png';
-import akhila from '../../../assets/pioneers/akhila.png';
-import anushka from '../../../assets/pioneers/anushka.jpeg';
-import manuja from '../../../assets/pioneers/manuja.png';
-import gihan from '../../../assets/pioneers/gihan.jpg';
-/* import data from './WhatMsClubData.json'; */
+// import OwlCarousel from 'react-owl-carousel';
+// import pioneers from './PioneersData.json';
+
+// const responsive = {
+//   0: {
+//     items: 1.3,
+//   },
+//   370: {
+//     items: 1.2,
+//   },
+//   411: {
+//     items: 1.3,
+//   },
+//   414: {
+//     items: 1.3,
+//   },
+//   600: {
+//     items: 2,
+//   },
+//   768: {
+//     items: 2.25,
+//   },
+//   1000: {
+//     items: 3,
+//   },
+//   1200: {
+//     items: 3,
+//   },
+//   1400: {
+//     items: 3.3,
+//   },
+//   1700: {
+//     items: 4.5,
+//   },
+//   2000: {
+//     items: 5,
+//   },
+// };
 
 const WhatMsClub = () => (
   <section className="fdb-block">
     <div className="container">
-      <div className="row justify-content-center">
-        <div className="col col-md-8 text-center">
-          <h1>PIONEERS OF MS CLUB</h1>
-          {/* <p className="lead">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum at egestas rutrum commodo ultrices
-            vitae vel. Velit a scelerisque et pharetra, tincidunt pulvinar amet. Tristique morbi enim urna viverra massa
-            vehicula quam. Gravida diam nec amet, augue sed dignissim convallis integer suspendisse. Orci ut donec nibh
-            eget. Tempor vel in turpis justo, consequat euismod ornare. Turpis orci pulvinar.
-</p> */}
-          <div className="pioneers d-flex p-5 justify-content-center">
-            <img alt="Nissanka Senevirathne" className="img-fluid" src={nissanka} />
-            <img alt="Nissanka Senevirathne" className="img-fluid" src={akhila} />
-            <img alt="Nissanka Senevirathne" className="img-fluid" src={anushka} />
-            <img alt="Nissanka Senevirathne" className="img-fluid" src={manuja} />
-            <img alt="Nissanka Senevirathne" className="img-fluid" src={gihan} />
-          </div>
-        </div>
+      <div className="row justify-content-center text-center">
+        <h1>PIONEERS OF MS CLUB</h1>
+        <div>{/* Implement the code here */}</div>
       </div>
     </div>
   </section>
