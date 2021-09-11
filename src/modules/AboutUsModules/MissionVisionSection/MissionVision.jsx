@@ -11,13 +11,13 @@ const MissionVision = () => (
   <section className="mainSection">
     <div className="container main">
       <div className="sec-1">
-        <div className="row text-left text-sm-center align-items-center pt-5 pb-md-5 ">
+        <div className="row text-left align-items-center pt-5 pb-md-5 ">
           <div className="col-4 col-md-5 col-sm-8">
-            <img alt="image" className="img-fluid" src={mission} />
+            <img alt="image" className="img-fluid shadow imgrounded-xl" src={mission} />
           </div>
 
           <div className="col-12 col-md-5">
-            <h2>
+            <h2 className="topic">
               <strong>Our Mission</strong>
             </h2>
             <p className="lead">{content.mission.description}</p>
@@ -27,11 +27,11 @@ const MissionVision = () => (
 
       <div className="row text-left align-items-center pt-5 pb-md-5">
         <div className="col-4 col-md-5 col-sm-8  order-md-5">
-          <img alt="image" className="img-fluid" src={vision} />
+          <img alt="image" className="img-fluid shadow imgrounded-xl" src={vision} />
         </div>
 
         <div className="col-12 col-md-5">
-          <h2>
+          <h2 className="topic">
             <strong>Our Vision</strong>
           </h2>
           <p className="lead">{content.vision.description}</p>
@@ -40,11 +40,11 @@ const MissionVision = () => (
 
       <div className="row text-left align-items-center pt-5 pb-md-5">
         <div className="col-4 col-md-5 col-sm-8">
-          <img alt="image" className="img-fluid" src={strategy} />
+          <img alt="image" className="img-fluid shadow imgrounded-xl" src={strategy} />
         </div>
 
         <div className="col-12 col-md-5">
-          <h2>
+          <h2 className="topic">
             <strong>Our Strategy</strong>
           </h2>
           <p className="lead">{content.strategy.description}</p>

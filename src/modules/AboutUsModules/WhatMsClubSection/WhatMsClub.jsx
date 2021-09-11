@@ -1,7 +1,7 @@
 import React from 'react';
 import './WhatMsClub.css';
-// import OwlCarousel from 'react-owl-carousel';
-// import pioneers from './PioneersData.json';
+import OwlCarousel from 'react-owl-carousel';
+import pioneers from './PioneersData.json';
 
 // const responsive = {
 //   0: {
@@ -44,7 +44,15 @@ const WhatMsClub = () => (
     <div className="container">
       <div className="row justify-content-center text-center">
         <h1>PIONEERS OF MS CLUB</h1>
-        <div>{/* Implement the code here */}</div>
+        <div>
+          <OwlCarousel>
+            {pioneers.data.map((pioneer) => (
+              <div key={pioneer.id}>
+                <img src={pioneer.image} alt="pioneer" />
+              </div>
+            ))}
+          </OwlCarousel>
+        </div>
       </div>
     </div>
   </section>
